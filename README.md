@@ -1,4 +1,4 @@
-# awwray
+# awray
 
 A new Flutter project.
 
